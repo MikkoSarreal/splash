@@ -1,8 +1,11 @@
 fileignoreconfig:
-- filename: package-lock.json
-  checksum: be8670414dcebd06de03eea366cd9ce202e56ede605e0d09399cc5bc8f813a0d
 - filename: gatsby-config.ts
   checksum: bb107069d5be696e6301309f43269f063f38e190df21b1c82f3121d28d456c74
 - filename: src/pages/index.tsx
   checksum: 02e3667cb232c1139b42e53b90aa7f105134e8b2bf303e702f59ffb14a68f333
+- filename: package-lock.json
+  checksum: 0422e171e28113e62fde79c3b8012caf61ab232ade0d10c98b5c62c64e7bd3d1
+- filename: yarn.lock
+  checksum: 0eb0d144633c08e4100033071edf3261bec43cd4fd532d96a6008325f2d93c7b
+version: ""
 version: ""
